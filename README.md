@@ -6,3 +6,4 @@ Sharing my Linked List Problem Solutions
 - 11th Feb - 2130. Maximum Twin Sum of a Linked List
 - 11th Feb - 61. Rotate List
 - 12th Feb - 148. Sort List (Naive approach, TLE)
+- 12th Feb - 148. Sort List (O(nlogn), O(n))
