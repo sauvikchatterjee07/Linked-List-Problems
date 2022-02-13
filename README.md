@@ -10,3 +10,4 @@ Sharing my Linked List Problem Solutions
 - 12th Feb - 147. Insertion Sort List
 - 12th Feb - 143. Reorder List
 - 13th Feb - 1669. Merge In Between Linked Lists
+- 13th Feb - 1721. Swapping Nodes in a Linked List
